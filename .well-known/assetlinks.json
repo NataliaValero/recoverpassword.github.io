@@ -1,11 +1,10 @@
-{
+[{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
     "package_name": "com.example.stockeepproject",
-    "sha256_cert_fingerprints": [
-      "18:7F:05:C4:AF:5B:51:23:DD:E7:41:F5:AE:FB:34:60:F7:A6:3C:EB:46:0B:7A:8F:20:6B:30:10:28:DC:AD:E7"
-    ]
+    "sha256_cert_fingerprints":
+    ["18:7F:05:C4:AF:5B:51:23:DD:E7:41:F5:AE:FB:34:60:F7:A6:3C:EB:46:0B:7A:8F:20:6B:30:10:28:DC:AD:E7"]
   }
-}
+}]
 
